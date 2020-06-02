@@ -1,3 +1,5 @@
+#run_analysis.r
+
 library(reshape2)
 
 filename <- "getdata_dataset.zip"
